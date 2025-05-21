@@ -1,12 +1,14 @@
-# The Tech Academy Unity Projects
- This Repository is for all my submissions for Unity for The Tech Academy
-# Submissions
-welcome to my GitHub! Here are some projects I worked on while learning Unity and C#
+# 🌟The Tech Academy Unity Projects
+ This repository contains all of my Unity with C# project submissions completed during my time at The Tech Academy.
+# 🧠 What You'll Find
+These projects demonstrate my understanding of core Unity concepts, C# scripting, physics, lighting, animation, input handling, and scene management.
 
-## Project 1: 🎮[Coins Gone Wild](https://github.com/Dev-OtedGamer/The-Tech-Academy-Unity-Projects/blob/main/Coins%20Gone%20Wild%203D/Assets/Scripts/Player.cs)
-**Description:** Here I created a game for my final submission for the Unity and C# course. I Created a playable character that can jump that is controlled with the players input. 
-The object of the game is to collect all the coins. This was a timed challenge to design and create a playable demo.
+## 🎮Project 1: [Coins Gone Wild](https://github.com/Dev-OtedGamer/The-Tech-Academy-Unity-Projects/blob/main/Coins%20Gone%20Wild%203D/Assets/Scripts/Player.cs)
+**Description:**This was my final project for the Unity and C# course. I developed a simple coin collection game where the player controls a character 
+that can jump and move based on user input. The goal is to collect all the coins in the scene. This was a timed challenge designed to test rapid 
+prototyping and gameplay functionality.
 
-## Project 2: 🎮[Star System](https://github.com/Dev-OtedGamer/The-Tech-Academy-Unity-Projects/blob/main/Star%20System/Assets/Scripts/RotateAround.cs)
-**Description:** Here I created a small Star System, A planet revolves around a star and a moon revovles around the planet. I learned to use the lighting system in Unity to ulminate the star and create the shadow effect that is created by the revolving planet and moon.
-I created a start button using C# that ueses the scene manager to load the start scene.
+## 🌌Project 2: [Star System](https://github.com/Dev-OtedGamer/The-Tech-Academy-Unity-Projects/blob/main/Star%20System/Assets/Scripts/RotateAround.cs)
+**Description:** In this project, I created a miniature star system simulation. A planet orbits around a star, and a moon orbits around the planet. 
+I implemented dynamic lighting to illuminate the star and cast realistic shadows as objects revolve. 
+I also created a start button using Unity’s UI system and C# scripting, which uses the Scene Manager to transition between scenes.
